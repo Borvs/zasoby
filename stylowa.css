@@ -1,0 +1,80 @@
+header{background-color:#FFDAB9;}
+#grey{background-color:#008080;}
+#grey{color:white;}
+#brown{background-color:#808000;}
+#brown{color:white;}
+main{background-color:#F0E68C;}
+body{background-color:#F0E68C;}
+table{background-color:skyblue;}
+table{color:white;}
+table, th, tr, td{border:1px solid white;}
+h1{text-align: center;}
+img{width:300px;}
+img{border:3;}
+#white{color:white;}
+
+.menu li
+{
+	list-style:none;
+	display: inline-flex;
+	justify-content: space-around;
+	align-items: stretch;
+	margin-left: 15.5% ;
+}
+
+.menu a
+{
+	text-decoration: none;
+	color:rgb(12,37,37);
+	font-size: 2.5em;
+}
+
+.menu a:hover
+{
+	color:rgb(20,57,219);
+	font-size:2.6em;
+}
+
+footer
+{
+	width:100%;
+	background-color:#BDB76B;
+	text-align: center;
+}
+
+footer p
+{
+	margin:0;
+	padding:17px;
+}
+
+.link a
+{
+	text-decoration: none;
+	color:rgb(12,37,37);
+	font-size: 0.9em;
+}
+
+.link a:hover
+{
+	color:rgb(20,57,219);
+	font-size:1em;
+}
+
+.form-group
+{
+	padding:10px;
+	width:280px;
+	margin:auto;
+	text-align:left;
+}
+
+.form-group label
+{
+	display:block;
+	padding-bottom; 5px;
+}
+
+.form-group label.gender{display:inline;}
+
+.text-center{text-align:center;}
