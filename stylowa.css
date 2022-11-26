@@ -19,7 +19,7 @@ img{border:3;}
 	display: inline-flex;
 	justify-content: space-around;
 	align-items: stretch;
-	margin-left: 15.5% ;
+	margin-left: 13% ;
 }
 
 .menu a
@@ -64,7 +64,7 @@ footer p
 .form-group
 {
 	padding:10px;
-	width:280px;
+	width:300px;
 	margin:auto;
 	text-align:left;
 }
